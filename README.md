@@ -4,13 +4,12 @@
 const otavio = {
 	name: "Otávio Dias",
 	dob: "1990-01-13",
-	gender: "♂",
 	location: {
 		city: "Maracaju",
 		state: "MS",
 		country: "Brazil"
 	},
-	interests: ["Programming 🖥", "Games 🎮", "Basketball 🏀", "Football ⚽️"]
+	interests: ["Programming 🖥", "Games 🎮", "Basketball 🏀", "Football ⚽️", "Beer 🍺", "Cooking 🍳"]
 };
 ```
 <br/>
