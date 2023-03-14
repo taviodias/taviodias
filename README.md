@@ -3,7 +3,7 @@
 ```javascript
 const otavio = {
 	name: "Otávio Dias",
-	dof: "1990-01-13",
+	dob: "1990-01-13",
 	gender: "♂",
 	location: {
 		city: "Maracaju",
